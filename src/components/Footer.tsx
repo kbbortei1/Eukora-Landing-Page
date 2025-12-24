@@ -5,15 +5,15 @@ const Footer = () => {
   const socialMedia = {
     instagram: 'learnwitheukora', // e.g., 'eukora_official'
     tiktok: '_eukora', // e.g., '@eukora'
-    linkedin: '', // e.g., 'eukora-learning'
+    linkedin: 'Eukora', // e.g., 'eukora-learning'
     facebook: '', // e.g., 'eukoralearning'
   };
 
   // Contact Information - Edit these values to update contact details
   const contactInfo = {
-    email: 'support@eukora.com',
-    phone: '+233 20 123 4567',
-    location: 'Accra, Ghana',
+    email: 'eukora12@gmail.com',
+    phone: '+233 59 959 8288',
+    location: 'Kumasi, Ghana',
   };
 
   return (
