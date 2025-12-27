@@ -37,10 +37,18 @@ const Features = () => {
     {
       icon: 'emoji_events',
       title: 'Gamified Learning',
-      description: 'Earn badges, maintain streaks, and compete on leaderboards to stay motivated.',
+      description: 'Earn badges, maintain streaks, take on daily challenges, and compete on leaderboards to stay motivated.',
       color: 'bg-purple-500/10',
       iconColor: 'text-purple-500',
       hoverBorder: 'hover:border-purple-400/30',
+    },
+    {
+      icon: 'groups',
+      title: 'Connect',
+      description: 'Connect with fellow learners, create study groups, challenge each other, and make friends from the leaderboard.',
+      color: 'bg-orange-500/10',
+      iconColor: 'text-orange-500',
+      hoverBorder: 'hover:border-orange-400/30',
     },
     {
       icon: 'bolt',

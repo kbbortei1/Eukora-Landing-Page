@@ -131,7 +131,7 @@ const Home = () => {
               {/* Premium Note */}
               <p className="text-sm text-slate-500 flex items-center gap-2 justify-center lg:justify-start">
                 <span className="material-icons-round text-primary text-lg">check_circle</span>
-                First 500 students get premium access for free.
+                First 50 students get premium access for free.
               </p>
             </div>
 
